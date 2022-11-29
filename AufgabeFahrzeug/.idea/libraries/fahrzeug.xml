@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fahrzeug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Aufgabe 1/out/artifacts/fahrzeug_jar/fahrzeug.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
